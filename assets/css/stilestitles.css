@@ -1,0 +1,73 @@
+
+/* Estilos para el modo oscuro */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+.nav-link:hover {
+    color: #dddddd;
+}
+
+.dropdown-menu-dark {
+    background-color: #333;
+    border-color: #444;
+}
+
+.dropdown-item-dark {
+    color: #ffffff;
+}
+
+.dropdown-item-dark:hover {
+    background-color: #444;
+}
+
+/* Estilos adicionales para el modo oscuro si es necesario */
+.sidebar {
+    background-color: #1f1f1f;
+}
+
+.sidebar .nav li a {
+    color: #ffffff;
+}
+
+.sidebar .nav li a:hover {
+    background-color: #333333;
+}
+
+.navbar {
+    background-color: #1f1f1f;
+    color: #ffffff;
+}
+
+.navbar .navbar-brand {
+    color: #ffffff;
+}
+
+.navbar .navbar-brand:hover {
+    color: #dddddd;
+}
+
+.navbar .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    color: #dddddd;
+}
+
+.dropdown-menu {
+    background-color: #333333;
+}
+
+.dropdown-item {
+    color: #ffffff;
+}
+
+.dropdown-item:hover {
+    background-color: #444444;
+}
